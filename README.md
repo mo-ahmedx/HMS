@@ -1,7 +1,25 @@
-# HMS
-Hospital Management System 
-This is Small Project about Hospital Management System, with buitl in Admin
-Admin can Add and View Patients and Doctors
-it contains comman variablbes for HMS such us(PatientNAme patientAge and illnes)
-There are patients.txt and doctors.txt those files are exmaples u can use or u can let it create your own new files
-It's free for everyone 
+# 🏥 Daryeel Hospital Management System
+
+A simple console-based Hospital Management System written in **C++**. This project allows an admin to manage hospital data such as adding and viewing doctors and patients through file storage.
+
+## ✨ Features
+
+- Admin login (with hardcoded credentials)
+- Add patient information
+- View list of patients
+- Add doctor information
+- View list of doctors
+- Simple file-based storage (`.txt` files)
+
+## 🛠️ Technologies Used
+
+- C++
+- File I/O (fstream)
+- Basic terminal UI
+- `chrono` and `thread` for delay effects
+
+## 🧪 Admin Credentials
+
+```bash
+Username: Mohammed
+Password: 2024
